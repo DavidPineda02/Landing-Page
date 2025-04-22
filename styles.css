@@ -100,6 +100,7 @@ header {
 /* Estilos para el botón "Get Started" */
 .button {
     display: inline-block; /* Permite que el botón se comporte como un elemento en línea */
+    background-color: rgb(58, 191, 249);    /* Define el color de fondo del botón */
     color: white; /* Define el color del texto del botón */
     border: none; /* Elimina el borde predeterminado del botón */
     padding: 10px 20px; /* Añade relleno interno al botón */
